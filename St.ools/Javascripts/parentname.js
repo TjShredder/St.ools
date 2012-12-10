@@ -1,0 +1,1 @@
+inlets = 1;outlets = 2;setinletassist(0, "bang it");setoutletassist(0, "(symbol) 'parent name'");setoutletassist(1, "(symbol) 'name of grandparentpatcher'");function bang(){    if(this.patcher){        outlet(0, this.patcher.parentpatcher.box.varname);        outlet(1, this.patcher.parentpatcher.parentpatcher.name);   }}

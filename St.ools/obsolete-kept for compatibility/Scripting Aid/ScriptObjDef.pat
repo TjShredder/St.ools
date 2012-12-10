@@ -1,0 +1,1 @@
+funnel, funnel ins out;adc~, adc~  no outs;adc~s, adc~  no out;dac~, dac~ ins no;dac~s, dac~ in no;pack, pack ins out;packs, pack in out;pak, pak ins out;paks, pak in out;switch, ins1 out;switchs, in out;

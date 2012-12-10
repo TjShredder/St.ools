@@ -1,0 +1,8 @@
+max definecommand I patcher insertobj inlet;
+max definecommand O patcher insertobj outlet;
+max definecommand u patcher inserttextobj umenu;
+max definecommand z patcher inserttextobj "zl ";
+max definecommand _ patcher inserttextobj "prepend set";
+max definecommand M patcher insertobj ftm.mess;
+max definecommand F patcher inserttextobj ftm.;
+

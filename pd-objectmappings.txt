@@ -1,0 +1,7 @@
+max objectfile min minimum;
+max objectfile max maximum;
+max objectfile inv rdiv;
+max objectfile lop~ onepole~;
+max objectfile div /;
+max objectfile osc~ cycle~;
+max objectfile bang bangbang;

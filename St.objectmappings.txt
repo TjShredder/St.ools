@@ -1,0 +1,6 @@
+max objectfile *+ times+;
+max objectfile <len smallen;
+max objectfile comp ===;
+max objectfile *dB~ timesdB~;
+max objectfile *l~ timesline~;
+

@@ -1,0 +1,1 @@
+funnel, in0 out;adc~, no out0;dac~, in0 no;switch, in1 out;pack, in0 out;pak, in0 out;

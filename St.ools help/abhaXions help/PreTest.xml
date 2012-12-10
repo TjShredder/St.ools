@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<pattrstorage name = "PreTest">
+	<slot number = "1" name = "stormy tools">
+		<pattr name = "dial" value = "32" />
+		<pattr name = "flonum" value = "-0.85" />
+		<pattr name = "number" value = "4" />
+		<pattr name = "slider" value = "17" />
+	</slot>
+	<slot number = "2" name = "dense beats">
+		<pattr name = "dial" value = "15" />
+		<pattr name = "flonum" value = "0.5" />
+		<pattr name = "number" value = "32" />
+		<pattr name = "slider" value = "63" />
+	</slot>
+	<slot number = "3" name = "whacky water">
+		<pattr name = "dial" value = "85" />
+		<pattr name = "flonum" value = "18." />
+		<pattr name = "number" value = "64" />
+		<pattr name = "slider" value = "110" />
+	</slot>
+	<slot number = "4" name = "sizzling orgasm">
+		<pattr name = "dial" value = "127" />
+		<pattr name = "flonum" value = "-23." />
+		<pattr name = "number" value = "86" />
+		<pattr name = "slider" value = "51" />
+	</slot>
+	<slot number = "5" name = "Jamba">
+		<pattr name = "dial" value = "53" />
+		<pattr name = "flonum" value = "128." />
+		<pattr name = "number" value = "63" />
+		<pattr name = "slider" value = "110" />
+	</slot>
+</pattrstorage>
+
